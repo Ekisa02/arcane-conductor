@@ -1,0 +1,4 @@
+- Replace SimplePlanner with an LLM-backed planner.
+- Add authenticated tool connectors.
+- Add persistence (Postgres / Redis) for TaskRegistry and Memory.
+- Add monitoring metrics and tracing.
